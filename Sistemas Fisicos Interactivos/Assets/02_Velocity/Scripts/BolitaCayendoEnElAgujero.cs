@@ -11,12 +11,9 @@ public class BolitaCayendoEnElAgujero : MonoBehaviour
     [SerializeField]private MyVector2D velocity;
     [SerializeField]private MyVector2D acceleration; 
     
-    
     [Header("World")]
     [SerializeField]private Camera camera;
     [SerializeField] private Transform Agujero;
-    
-   
     
     void Start()
     {
@@ -42,6 +39,7 @@ public class BolitaCayendoEnElAgujero : MonoBehaviour
     public void Move()
     {
         velocity = velocity + acceleration * Time.fixedDeltaTime;
+        
         position = position + velocity * Time.fixedDeltaTime;
         
         //Actualizamos la posicion de la bola

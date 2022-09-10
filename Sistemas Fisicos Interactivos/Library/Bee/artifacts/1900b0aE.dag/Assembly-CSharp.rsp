@@ -359,6 +359,7 @@
 "Assets/02_Velocity/Scripts/AgujeroNegro.cs"
 "Assets/02_Velocity/Scripts/BolitaCayendoEnElAgujero.cs"
 "Assets/02_Velocity/Scripts/MyBolita.cs"
+"Assets/03_Forces/Scripts/MyBolitaForces.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
