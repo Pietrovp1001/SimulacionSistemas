@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/03_Forces/Fisicas.unity
+- path: Assets/04_Trigonometria/Trigonometry.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
