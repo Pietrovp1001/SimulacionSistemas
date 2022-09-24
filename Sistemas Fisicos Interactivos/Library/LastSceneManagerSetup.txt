@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/04_Trigonometria/Trigonometry.unity
+- path: Assets/05_SistemaCordenadas/CoordSystem.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
