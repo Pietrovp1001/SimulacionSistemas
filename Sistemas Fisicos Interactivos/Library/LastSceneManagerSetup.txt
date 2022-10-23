@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/06_Oscilaciones/Oscilaciones.unity
+- path: Assets/07_Tweens/Tweens.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
