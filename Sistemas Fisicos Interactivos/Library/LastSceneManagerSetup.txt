@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/05_SistemaCordenadas/CoordSystem.unity
+- path: Assets/06_Oscilaciones/Oscilaciones.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

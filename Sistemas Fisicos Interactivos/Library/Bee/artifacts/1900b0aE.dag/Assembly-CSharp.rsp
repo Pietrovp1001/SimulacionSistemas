@@ -364,6 +364,8 @@
 "Assets/04_Trigonometria/MoveToMouse.cs"
 "Assets/04_Trigonometria/PolarExperiments.cs"
 "Assets/05_SistemaCordenadas/DrawMatrix.cs"
+"Assets/06_Oscilaciones/Moving.cs"
+"Assets/06_Oscilaciones/Sin.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
