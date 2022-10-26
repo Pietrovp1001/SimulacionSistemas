@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/07_Tweens/Tweens.unity
+- path: Assets/08_ProcedualWorlds/Procedual Worlds.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
